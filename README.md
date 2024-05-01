@@ -1,2 +1,2 @@
 # Flipkart-Review-Scraper
-A web scrapping porject
+A web scrapping project
